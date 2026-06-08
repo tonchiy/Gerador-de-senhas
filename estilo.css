@@ -26,3 +26,14 @@ label{
     text-decoration: left;
     margin-top: 8px;
 }
+button{
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: azure;
+}
